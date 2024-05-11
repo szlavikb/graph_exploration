@@ -1,7 +1,0 @@
-{
-    "python.analysis.extraPaths": [
-        "./graph_exploration",
-        "./graph_exploration"
-    ],
-    "python.analysis.typeCheckingMode": "off"
-}
