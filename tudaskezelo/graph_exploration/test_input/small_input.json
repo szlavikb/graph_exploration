@@ -1,0 +1,32 @@
+[
+    {
+        "node_1": 0,
+        "node_2": 1,
+        "weight": 2
+    },
+    {
+        "node_1": 0,
+        "node_2": 2,
+        "weight": 5
+    },
+    {
+        "node_1": 0,
+        "node_2": 3,
+        "weight": 7
+    },
+    {
+        "node_1": 1,
+        "node_2": 5,
+        "weight": 2
+    },
+    {
+        "node_1": 4,
+        "node_2": 0,
+        "weight": 6
+    }, 
+    {
+        "node_1": 0,
+        "node_2": 5,
+        "weight": 10
+    }
+]

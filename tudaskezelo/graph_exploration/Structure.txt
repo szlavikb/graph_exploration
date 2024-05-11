@@ -1,0 +1,18 @@
+structure of the steps: 
+    status dataclass:    
+        agent_id: str, int
+        agent_energy: float, int
+        between_nodes: bool 
+        current_nodes: {from: node_name, to: node_name}
+            if not between nodes from = to
+
+    trjectory = list of step dataclass: 
+        agent_id: str, int
+        is_break: bool
+        is_energy_sharing: bool
+        is_in_move: bool
+        from: node
+        to: node
+
+trajectory list of list: 
+    list of list of step for every agent
