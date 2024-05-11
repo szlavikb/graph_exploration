@@ -1,0 +1,26 @@
+{
+    "title": 
+        {
+            "text": "Graph Exploration with multiple agents",
+            "text_color": "#000080",
+            "bg_color": "#808080",
+            "font": "freesansbold.ttf",
+            "size": 50,
+            "position_x": 550,
+            "position_y": 200
+        },
+    "summary": 
+        {
+            "text": "Visualization platform for simulating an algorithm about graph exploration with multiple agents which are capable of energy sharing. With these dependencies and other specific conditions the problem in not NP hard."
+        }
+}
+
+
+
+
+
+
+
+
+
+
